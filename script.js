@@ -37,3 +37,32 @@ nav.addEventListener("mouseleave",function(){
     })
 
 })
+
+
+// page2
+function page2Animation(){
+    
+}
+
+let page2Center=document.querySelector("#page2-center");
+let video=document.querySelector("#page2 video");
+
+page2Center.addEventListener("click",function(){
+    video.play()
+    gsap.to(video,{
+        transform: "scaleX(1) scaleY(1)",
+        borderRadius: 0,
+        opacity: 1,
+    })
+})
+
+video.addEventListener("click",function(){
+    video.pause()
+    gsap.to(video,{
+        transform: "scaleX(0.7) scaleY(0)",
+        opacity: 0,
+        borderRadius: "30px"
+    })
+    
+})
+
