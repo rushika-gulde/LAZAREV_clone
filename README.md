@@ -23,9 +23,8 @@ built using **HTML**, **CSS**, and **JavaScript**, with animations powered by **
 - **Locomotive Scroll** – for smooth scrolling
 
 ---
-## 🔴 Project Demo Video
+## 📽️ Project Demo Video
 
-[![Watch the video](https://youtu.be/5TURw2DuIic?si=ogc0uf9GJZNKHdSE)
-
+[![Watch the video](https://img.youtube.com/vi/5TURw2DuIic/0.jpg)](https://youtu.be/5TURw2DuIic)
 
 
