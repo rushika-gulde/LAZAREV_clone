@@ -1,7 +1,7 @@
 # Lazarev.agency Clone 🚀
 
 This is a fully responsive front-end clone of the official [Lazarev.agency](https://www.lazarev.agency/) website 
-built using **HTML**, **CSS**, and **JavaScript**, with animations powered by **GSAP** and smooth scroll using **Locomotive.js**.
+built using **HTML**, **CSS**, and **JavaScript**, with animations powered by **GSAP** .
 
 ---
 
@@ -9,7 +9,7 @@ built using **HTML**, **CSS**, and **JavaScript**, with animations powered by **
 
 -  Responsive design for mobile, tablet, and desktop
 -  Pixel-perfect layout closely resembling the original site
--  Smooth scroll and animations (Locomotive Scroll + GSAP)
+-  animations( GSAP)
 -  Clean code structure with semantic HTML and modular CSS
 
 ---
@@ -20,7 +20,6 @@ built using **HTML**, **CSS**, and **JavaScript**, with animations powered by **
 - **CSS3**
 - **JavaScript (Vanilla)**
 - **GSAP** – for animations
-- **Locomotive Scroll** – for smooth scrolling
 
 ---
 ## 📽️ Project Demo Video
