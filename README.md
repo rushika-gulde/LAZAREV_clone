@@ -25,7 +25,7 @@ built using **HTML**, **CSS**, and **JavaScript**, with animations powered by **
 ---
 ## 🔴 Project Demo Video
 
-[![Watch the video](https://youtu.be/5TURw2DuIic)
+[![Watch the video](https://youtu.be/5TURw2DuIic?si=ogc0uf9GJZNKHdSE)
 
 
 
